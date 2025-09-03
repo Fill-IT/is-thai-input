@@ -1,0 +1,29 @@
+{
+  "name": "is-thai-input",
+  "version": "1.0.0",
+  "description": "Library สำหรับเช็คว่า input เป็นภาษาไทยหรือไม่",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fill-IT/is-thai-input.git"
+  },
+  "keywords": [
+    "ไทย",
+    "thai"
+  ],
+  "author": "RealFilllykung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fill-IT/is-thai-input/issues"
+  },
+  "homepage": "https://github.com/Fill-IT/is-thai-input#readme",
+  "dependencies": {
+    "jest": "^30.1.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
